@@ -121,7 +121,7 @@ namespace _01_MainSubjects
             Console.WriteLine("Toplam Ödenecek Tutar: " + totalPrice + " TL");
 
             #endregion
-
+            //test
             Console.Read();
         }
     }
