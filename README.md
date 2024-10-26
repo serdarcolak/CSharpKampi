@@ -1,7 +1,7 @@
 ## C# EĞİTİM KAMPI PROJELERİ
 
 
-Murat Yücedağ'ın rehberliğinde gerçekleştirdiğim C# Eğitim Kampı boyunca tamamladığım ilk 8 projeyi içermektedir. Her bir proje, belirli programlama kavramlarını anlamamı ve uygulama becerilerimi geliştirmemi sağladı. Aşağıda her projeye dair teknik ayrıntıları bulabilirsiniz:
+Murat Yücedağ'ın rehberliğinde gerçekleştirdiğim C# Eğitim Kampı boyunca tamamladığım projeleri paylaşmaktayım. Her bir proje, belirli programlama kavramlarını anlamamı ve uygulama becerilerimi geliştirmemi sağladı. Aşağıda her projeye dair teknik ayrıntıları bulabilirsiniz:
 
 ## Proje 1: Merhaba Dünya! 🌍
 Bu projede, konsol ekranına metin yazdırmayı öğrendim. `Console.WriteLine()` komutunu kullanarak temel yazdırma işlemlerini gerçekleştirdim ve bir C# programının temel yapısını kavradım.
