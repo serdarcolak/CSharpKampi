@@ -25,6 +25,12 @@ Kodlarımı daha düzenli ve tekrar kullanılabilir hale getirmek için metotlar
 Bu projede `foreach` döngüsünü derinlemesine inceledim ve bir sınav sistemi simülasyonu oluşturup öğrencilerin sınav notlarını alarak ortalamalarını hesapladım.
 
 ## Proje 8: Geriye Değer Döndüren Fonksiyonlar 🥇
-Son projemde geri değer döndüren metotlar ile çalışarak kullanıcıdan aldığım verileri işleyip sonuçları döndüren fonksiyonlar yazdım. Bu proje ile daha karmaşık işlemleri gerçekleştirmeyi öğrendim.
+Bu projede geri değer döndüren metotlar ile çalışarak kullanıcıdan aldığım verileri işleyip sonuçları döndüren fonksiyonlar yazdım. Bu proje ile daha karmaşık işlemleri gerçekleştirmeyi öğrendim.
+
+## Proje 9: Database Projesi 🗄️
+Database projesinde ilişkisel tabloları oluşturdum. Ado.net ile MS SQL' de oluşturduğum veritabanına bağlantı sağladım.
+
+## Proje 10: Database Crud İşlemleri 🛠️
+Database Crud işlemlerinde ürün listeleme, ekleme, silme ve güncellemeyi Ado.net ve SQL sorgularıyla yaptım.
 
 Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. Gelecek projelerde bu bilgileri daha da derinleştirmeyi hedefliyorum!
